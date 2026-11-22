@@ -10,7 +10,7 @@ Before running the game locally, make sure you have the following installed:
 * **Node.js:** Download and install the **LTS version** from [nodejs.org](https://nodejs.org/).
 * **Git:** Download and install Git (including *Git Bash*) from [git-scm.com](https://git-scm.com/).
 
-### Installation & First Start
+### Installation & First Start (for beginners)
 
 1. Open **Git Bash**.
 2. Create the target folder `C:\Temp\Tennis` and navigate into it:
