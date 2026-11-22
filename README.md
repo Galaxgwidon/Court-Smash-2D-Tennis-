@@ -6,7 +6,7 @@ Shot Direction & Mouse Acceleration:
 
         A subtle crosshair on the opponent's half continuously shows your calculated target, as well as the current power when swinging or charging up.
 
-    Left & Right Mouse Button (hold = sharper):
+Left & Right Mouse Button (hold = sharper):
 
         Left Mouse Button: Sharp shot just over the net—the longer you hold it down, the greater the speed and sharpness (releasing triggers the shot).
 
