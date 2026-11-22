@@ -1,6 +1,6 @@
 Movement (WASD): You now move your player directly across the court using W / A / S / D (arrow keys still work alongside them as an option).
 
-    Shot Direction & Mouse Acceleration:
+Shot Direction & Mouse Acceleration:
 
         The mouse determines your target on the opponent's half—taking into account your current movement direction and acceleration (e.g., a fast mouse flick forward and to the left pulls the shot noticeably sharper, lower, and with spin into the left corner, giving it an extra momentum bonus).
 
