@@ -1,0 +1,6 @@
+{
+  "name": "Matchball",
+  "description": "2D Top-Down Tennis Browsergame mit Pfeiltasten-Steuerung und Leertasten-Schlag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
