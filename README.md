@@ -22,19 +22,34 @@ Before running the game locally, make sure you have the following installed:
 1. **Node.js:** Download and install the **LTS version** from [nodejs.org](https://nodejs.org/).
 2. **Git:** Download and install Git from [git-scm.com](https://git-scm.com/) (if not already installed).
 
-## Installation & Running the Game
+## Setup & Run Locally (Windows / Git Bash)
 
-1. Open your **Terminal** (e.g., *Git Bash*, *PowerShell*, or *Command Prompt* on Windows; *Terminal* on macOS/Linux).
-2. Clone the repository from GitHub:
+### Prerequisites
+* **Node.js:** Download and install the **LTS version** from [nodejs.org](https://nodejs.org/).
+* **Git:** Download and install Git (including *Git Bash*) from [git-scm.com](https://git-scm.com/).
+
+### Installation & First Start
+
+1. Open **Git Bash**.
+2. Create the target folder `C:\Temp\Tennis` and navigate into it:
    ```bash
-   git clone [https://github.com/Galaxgwidon/Court-Smash-2D-Tennis-.git](https://github.com/Galaxgwidon/Court-Smash-2D-Tennis-.git)
-3. Navigate into the project directory:
+   mkdir -p /c/Temp/Tennis && cd /c/Temp/Tennis
+3. Clone the repository from GitHub:
+   ```bash
+   git clone https://github.com/Galaxgwidon/Court-Smash-2D-Tennis-.git
+4. Enter the newly created project folder:
    ```bash
    cd Court-Smash-2D-Tennis-
-4. Install the dependencies:
+5. Install the required dependencies:
    ```bash
    npm install --legacy-peer-deps
-5. Start the local server:
+6. Start the local server:
+    ```bash
+    npm run dev
+7. Open your browser and go to http://localhost:3000 to play
+
+### Starting the Game Again Later
+1. You do not need to clone or install anything again. Simply open Git Bash and run:
    ```bash
-   npm run dev
-6. Open your browser and go to http://localhost:3000 to play.
+  cd /c/Temp/Tennis/Court-Smash-2D-Tennis-
+npm run dev
