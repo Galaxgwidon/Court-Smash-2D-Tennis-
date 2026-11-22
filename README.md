@@ -52,4 +52,4 @@ Before running the game locally, make sure you have the following installed:
 1. You do not need to clone or install anything again. Simply open Git Bash and run:
    ```bash
   cd /c/Temp/Tennis/Court-Smash-2D-Tennis-
-npm run dev
+        npm run dev
