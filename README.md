@@ -13,3 +13,28 @@ Left & Right Mouse Button (hold = sharper):
         Right Mouse Button: Volley (the context menu is disabled on the court)—with extended mid-air reach for hitting the ball directly before it bounces; can also be charged by holding it down.
 
         While holding the button, your player visibly winds up for the shot, accompanied by a curved power meter right next to the character.
+Installation
+        # Court Smash 2D Tennis
+
+## Prerequisites
+Before running the game locally, make sure you have the following installed:
+
+1. **Node.js:** Download and install the **LTS version** from [nodejs.org](https://nodejs.org/).
+2. **Git:** Download and install Git from [git-scm.com](https://git-scm.com/) (if not already installed).
+
+## Installation & Running the Game
+
+1. Open your **Terminal** (e.g., *Git Bash*, *PowerShell*, or *Command Prompt* on Windows; *Terminal* on macOS/Linux).
+2. Clone the repository from GitHub:
+   ```bash
+   git clone [https://github.com/Galaxgwidon/Court-Smash-2D-Tennis-.git](https://github.com/Galaxgwidon/Court-Smash-2D-Tennis-.git)
+3. Navigate into the project directory:
+   ```bash
+   cd Court-Smash-2D-Tennis-
+4. Install the dependencies:
+   ```bash
+   npm install --legacy-peer-deps
+5. Start the local server:
+   ```bash
+   npm run dev
+6. Open your browser and go to http://localhost:3000 to play.
