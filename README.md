@@ -4,6 +4,12 @@ Before running the game locally, make sure you have the following installed:
 1. **Node.js:** Download and install the **LTS version** from [nodejs.org](https://nodejs.org/).
 2. **Git:** Download and install Git from [git-scm.com](https://git-scm.com/) (if not already installed).
 
+## Language
+Game is in german
+
+<img width="1600" height="894" alt="grafik" src="https://github.com/user-attachments/assets/921b27ed-e900-430e-9e77-6e5ac27950b4" />
+
+
 ## Setup & Run Locally (Windows / Git Bash)
 
 ### Prerequisites
